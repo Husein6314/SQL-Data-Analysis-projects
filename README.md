@@ -1,4 +1,14 @@
 # SQL-Data-Analysis-projects
+## This project is regarding to a data analysis project using SQLite.
+**Problem Statement:** 🤔
+
+We have been provided with a dataset from the Apple App Store, The goal is to conduct a comprehensive data analysis to derive meaningful insights from this dataset. However, during the initial phases of the project, we encountered two significant challenges:
+
+1. **Data Import Difficulty**: Initially, I faced difficulties importing the dataset from an Excel file into MySQL Workbench. This challenge slowed down the data analysis process and required a workaround to proceed with the analysis.
+
+2. **SQLite Limitations**: Although I was able to import the data into SQLite successfully, I encountered limitations in SQLite's capacity to handle large datasets efficiently. This limitation compelled me to split the dataset into smaller portions to facilitate analysis in SQLite.
+
+Overcoming these initial hurdles and making the dataset analysis-ready posed an interesting challenge. However, these issues were resolved by switching to SQLite and splitting the dataset into manageable segments. Now, with the dataset ready for analysis, I am poised to dive deeper into exploring the data and extracting valuable insights to drive decision-making and project objectives effectively. 🚀📊📈
 
 ## EXPLORATORY DATA ANALYSIS (EDA) 🧐📊
 
